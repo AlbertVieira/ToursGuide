@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Madrid Tourist Guide</string>
+
+    <!--boton arriba-->
+    <string name="category_museums">Museums</string>
+    <string name="category_monuments">Monuments</string>
+    <string name="category_leisure">Leisure</string>
+    <string name="category_province">Province</string>
+    <!--Leisure-->
+    <string name="leisure_comercial_center">Comercial Center Xanadu</string>
+    <string name="leisure_comercial_description">Madrid Xanadú es uno de los centros comerciales más famosos de la Comunidad de Madrid, incluso de España.</string>
+    <!--Museums-->
+
+    <string name="museums_reina_description">Reina Sofía Museum:</string>
+    <string name="museums_thissen_description">Thyssen Bornemisza Museum:</string>
+    <string name="museums_prado_description">The Prado Museum</string>
+    <!--description-->
+    <string name="museums_prado">The Prado Museum is one of the most important art museums in the world. Among his artists are painters of the stature of Velázquez and Goya.</string>
+    <string name="museums_thissen">The Thyssen-Bornemisza Museum is one of the most important art museums in Madrid and complements the collections of the Prado Museum and Reina Sofía Museum. It is composed of more than 800 works that the Thyssen-Bornemisza family gathered for two generations</string>
+    <string name="museums_reina">The Museo Nacional Centro de Arte Reina Sofía offers visitors an extensive collection of contemporary Spanish works of art. Among his outstanding artists such as Pablo Picasso, Salvador Dalí and Joan Miró</string>
+
+    <!--Monuments-->
+    <string name="puerta_alcala">Puerta de Alcala Monuments</string>
+    <string name="puerta_description">La Puerta de Alcalá es una de las cinco antiguas puertas reales que daban acceso a la ciudad de Madrid (España).2​
+
+Se encuentra situada en el centro de la rotonda de la Plaza de la Independencia. En el cruce de las calles de Alcalá, Alfonso XII, Serrano y Salustiano Olózaga, junto a las puertas del Retiro: Puerta de España, Puerta de la Independencia (entrada principal a los jardines del Retiro) y Puerta de Hernani.3​
+
+La puerta daba acceso a aquellos viajeros que entraban antiguamente en la población desde Francia, Aragón o Cataluña.4​ En la actualidad es una puerta monumental que se encuentra ubicada junto a la Fuente de Cibeles y el Parque del Retiro. Fue construida por mandato de Carlos III en sustitución de otra puerta anterior que existía ya desde el siglo XVI.5​ El diseño y obra pertenece al arquitecto italiano Francesco Sabatini.6​ Compitieron con Sabatini otros proyectos por parte de arquitectos españoles: Ventura Rodríguez y de José de Hermosilla, siendo finalmente elegido personalmente por el Rey el diseño de Sabatini.</string>
+    <string name="puerta_sol">Puerta del Sol Monuments</string>
+    <string name="puerta_sol_description">The Puerta del Sol is one of the most famous squares in Madrid and you can find some of the most significant points and buildings of the capital.</string>
+    <!--Leisure-->
+    <string name="food">Restaurants</string>
+    <string name="comercial_center">Comercial Center</string>
+    <!--Province-->
+    <string name="province_aranjuez">Aranjuez Village Palace</string>
+    <!--Mountain-->
+    <string name="province_aranjuez_description">Aranjuez is a municipality of the Community of Madrid (Spain) and the last city of the Community of Madrid by the south, head of judicial party, whose term is crossed by the Tajo and Jarama rivers.
+
+It is one of the Royal Sites of the Crown of Spain since Felipe II named it in 1560, although it also has the title of town since 1899, which is why the municipality is known as Real Sitio and Villa de Aranjuez.
+
+It is famous for its Royal Palace, its Gardens and for the grid layout of its streets, for its orchards of strawberries and asparagus, for having served as inspiration to the composer Joaquin Rodrigo for his Concierto de Aranjuez, as well as for the so-called Motín de Aranjuez, That took place in that locality in 1808, and that ended with the abdication of Carlos IV in favor of its son Fernando VII. The Cultural Landscape of Aranjuez was declared a World Heritage Site by Unesco in 2001.</string>
+    <!--prueba-->
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="schedule">Schedule</string>
+    <string name="price">Price</string>
+
+
+</resources>

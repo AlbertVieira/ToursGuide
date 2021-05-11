@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c40000</color>
+    <color name="colorPrimaryDark">#c40000</color>
+    <color name="colorAccent">#c40000</color>
+    <color name="category_museums">#a34aa3</color>
+    <color name="category_monuments">#c40000</color>
+    <color name="category_leisure">#61749e</color>
+    <color name="category_province">#619e90</color>
+</resources>
